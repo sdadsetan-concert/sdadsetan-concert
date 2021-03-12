@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Sep Dadsetan, Executive Director of RWE Analytics
-- 👀 I’m interested in helping build solutions that allow us to be unified and scale
-- 📫 Feel free to reach me on Slack. I'm always happy to meet fellow Concert goers :)
+- 👋 Hi, I’m Sep Dadsetan, Executive Director of RWE Analytics and this is my work account
+- 👀 I’m interested in helping build solutions that provide unification and scalability
+- 📫 Feel free to reach me on our company Slack. I'm always happy to meet fellow Concert goers :)
